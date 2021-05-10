@@ -15,7 +15,7 @@ This program allows users to manage, departments, roles and employees inside an 
 * [Questions](#questions)
 
 ## Installation
-To install run the following command: ```npm``` i in code editor's integrated terminal to make sure that you have package-lock and package.json
+To install run the following command: ```npm i``` in code editor's integrated terminal to make sure that you have package-lock and package.json
 
 ## Usage
 After installing run node ```index.js``` in your code editor's integrated terminal to access database and add/view and update employee roles.
